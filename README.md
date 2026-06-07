@@ -57,7 +57,7 @@ Proje adımlarında üretilen ve `images` klasöründe yer alan analiz grafikler
 ![ROC Eğrisi](images/roc_curve.png)
 
 ### Çekirdek Fonksiyonları Başarı Karşılaştırması
-![Kernel Karşılaştırması](images/kernel_comparison.png)
+![Kernel Karşılaştırması](images/kernel_comparison_bar.png)
 
 ## Kullanılan Teknolojiler ve Hiper-Parametreler
 Projenin tamamen yeniden üretilebilmesi için gerekli kütüphane sürümleri ve model parametreleri şu şekildedir:
@@ -72,7 +72,7 @@ Projeyi kendi yerel ortamınızda veya Google Colab üzerinde çalıştırmak i�
 1. Bu depoyu yerel bilgisayarınıza kopyalayın:
 ```bash
 git clone [https://github.com/mlkyzgt/Banknote-Authentication-SVM.git](https://github.com/mlkyzgt/Banknote-Authentication-SVM.git)
-
+```
 2. Gerekli bağımlılıkları yükleyin:
 pip install pandas numpy scikit-learn matplotlib seaborn
 
@@ -82,3 +82,4 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 Dua, D. and Graff, C. UCI Machine Learning Repository. University of California, Irvine, School of Information and Computer Sciences. URL: https://archive.ics.uci.edu/ml
 
 Shahani, S., Jagiasi, A., Priya, R. L. (2018). Analysis of Banknote Authentication System using Machine Learning Techniques. International Journal of Computer Applications, 179(20), 22-26.
+
