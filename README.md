@@ -48,7 +48,7 @@ Proje adımlarında üretilen ve `images` klasöründe yer alan analiz grafikler
 ![Korelasyon Matrisi](images/correlation_matrix.png)
 
 ### Aykırı Değer Analizi (Boxplot)
-![Boxplot Grafikleri](images/boxplots.png)
+![Boxplot Grafikleri](images/outlier_analysis.png)
 
 ### Karışıklık Matrisi (Confusion Matrix Heatmap)
 ![Karışıklık Matrisi](images/confusion_matrix.png)
